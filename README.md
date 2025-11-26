@@ -48,5 +48,5 @@ Brand AI is a comprehensive platform that empowers businesses to create, manage 
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/ouss218/AI-powered-platform.git
+git clone https://github.com/Labreche-Oussama/AI-powered-platform.git
 cd Brand_AI
